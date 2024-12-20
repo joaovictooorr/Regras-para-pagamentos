@@ -13,5 +13,13 @@ Este é um projeto web Java com Spring para validação de datas e horários com
 - Postgres
 
 ## Instalação
-1. Clone o repositório:
+ Clone o repositório:
    git clone https://github.com/joaovictooorr/Regras-para-pagamentos
+
+## Envie requisições POST 
+ - para ("/pagamentos") com o corpo JSON
+  {
+  "dataPagamento": "20-12-2024 17:30:00"
+}
+   
+   
